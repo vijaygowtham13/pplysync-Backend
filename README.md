@@ -12,11 +12,7 @@ This backend is consumed by the **Next.js frontend**.
 
 ---
 
-## 🚀 Live API (Render)
 
-Backend URL:  
-👉 https://your-backend.onrender.com  
-*(Replace this with your actual Render service link)*
 
 ---
 
